@@ -289,7 +289,7 @@ function AddArole() {
 
     for (let i = 0; i < data.length; i++) {
       // Loops through and finds the name of all the departments
-      db.push(data[i].name);
+      departments.push(data[i].name);
     }
 
     inquirer
