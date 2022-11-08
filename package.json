@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/alisradwan/Employee_Tracker#readme",
   "dependencies": {
-    "express": "^4.18.2",
+    "inquirer": "^8.0.0",
     "mysql2": "^2.3.3"
   }
 }
