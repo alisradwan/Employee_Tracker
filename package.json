@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/alisradwan/Employee_Tracker#readme",
   "dependencies": {
+    "console.table": "^0.10.0",
     "inquirer": "^8.0.0",
     "mysql2": "^2.3.3"
   }
